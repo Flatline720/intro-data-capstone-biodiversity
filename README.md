@@ -1,3 +1,3 @@
-# intro-data-capstone-biodiversity
+# capstone-biodiversity-project
 This my final project for my Intro to Data Analysis course that i took on Codecademy.
-Notebooks and more details could to be uploaded soon.
+Notebooks and more details to be uploaded soon.
